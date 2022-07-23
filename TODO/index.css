@@ -1,0 +1,70 @@
+ h1{
+    color: rgb(11, 11, 75);
+}
+
+.body{
+ background-color: white;
+ margin: -1.5% -1.5% 1%;
+ text-align: center;
+ padding: 1% 6% 1% 1%;
+}
+body{
+     background-image: linear-gradient(to right,red,blue); 
+}
+
+.div1 li a{
+    float: right;
+    text-decoration-line: unset;
+    color: red;
+    
+}
+.div1 ul{
+    list-style-type:none;
+    color:blue;
+    margin: 5%;
+    
+}
+#inv{
+    font-size: 150%;
+    text-align: left;
+    margin: 10% 50% 10% 10%;
+    padding: 10% 40% 10% 45%;
+    border-radius: 10px;
+}
+.btn{
+    margin: -38% -130% 10% 1%;
+    padding: 8% 10% 10% 10%;
+    float: right;
+    font-size: 150%;
+    border-radius: 10px;
+}
+.div1 ul li{
+    background-color: white;
+    font-size: 150%;
+    margin: 15% -170% -6% -5%;
+    padding: 10% 10% 20% 10%;
+    border-radius: 10px;
+}
+.div1{
+    position:absolute;
+}    
+#d{
+    font-size: 40px;
+    float: right;
+    margin-top: 1%;
+    margin-right: 18.5%;
+    display: inline-block;
+    position:sticky;
+    background-color: white;
+    padding: 5%;
+}
+#k{
+    margin-left: 70%;
+    margin-top: 5%;
+    margin-bottom: 1%;
+    color: white;
+    
+}
+
+
+
